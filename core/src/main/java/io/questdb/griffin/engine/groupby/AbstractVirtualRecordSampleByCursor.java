@@ -54,5 +54,4 @@ public abstract class AbstractVirtualRecordSampleByCursor extends AbstractNoReco
     public Record getRecord() {
         return record;
     }
-
 }
